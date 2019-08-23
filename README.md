@@ -22,7 +22,7 @@ Course Manager: Kodur Krishna Chaitanya [\[contact\]](mailto:kodur.chaitanya@col
 * Location and time: HUMN 1B80, 5:00-6:15 PM on Mondays and Wednesdays
 * [Syllabus](https://github.com/BoulderDS/CSCI5622-Machine-Learning/blob/master/info/syllabus.md) (Must READ if you are taking the course)
 * Piazza link: [https://piazza.com/class/jza7ib732nu1yz](https://piazza.com/class/jza7ib732nu1yz)
-* [TODO] Moodle link: [ https://moodle.cs.colorado.edu/course/view.php?id=](https://moodle.cs.colorado.edu/course/view.php?id=)
+* Moodle link: [https://moodle.cs.colorado.edu/course/view.php?id=1231](https://moodle.cs.colorado.edu/course/view.php?id=1231)
 * [Schedule and Slides](https://github.com/BoulderDS/CSCI5622-Machine-Learning/blob/master/info/schedule.md)
 * Textbook: [A Course in Machine Learning by Hal Daumé III](http://ciml.info/).
 
