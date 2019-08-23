@@ -4,7 +4,7 @@
 
 ### Course Staff
 
-Instructor: Chenhao Tan [\[contact\]](mailto:Chenhao.Tan@colorado.edu)   
+Instructor: [Chenhao Tan](https://chenhaot.com) [\[contact\]](mailto:Chenhao.Tan@colorado.edu)   
 Office hours: 4:00-4:45pm Monday and Wednesday, or by appointment (ECES 118A)
 
 
