@@ -48,12 +48,12 @@ This report can be a short update on Piazza about the current state of the proje
 
 We reserve a lecture for you to focus on the project. The instructors will go around the classroom and help you with your project.
 
-Although I do not take attendence in any lecture, you are required to attend hackathon to get the participantion points in the project.
+Although I do not take attendance in any lecture, you are required to attend hackathon to get the participation points in the project.
 
 
 ## Final presentation
 
-The final presentation will be on December 11.  In the final presentation you will present your project in a poster session.
+The final presentation will be on December 11.  In the final presentation, you will present your project in a poster session.
 You need to 
 
 * Explain what you did and what you think is the most exciting thing from this project
@@ -64,7 +64,7 @@ You need to
 
 ## Final report
 
-The final report is due on Dec 13 on Moodle. List group members in the report and sort the name alphabetically. You report should explain what
+The final report is due on Dec 13 on Moodle. List group members in the report and sort the name alphabetically. Your report should explain what
 you did and what results you achieved.  This document should
 make it clear:
 
@@ -98,7 +98,7 @@ Tips to get your report better:
 * Provide an error analysis.  An error analysis must contain examples from the
   development set that you get wrong.  You should show those examples
   and explain why (in terms of features or the model) they have the
-  wrong answer.  You should have been doing this all along as your
+  wrong answer.  You should have been doing this all along as you
   derive new approaches, but this is your final inspection of
   your errors. The feature or model problems you discover should not
   be trivial features you could add easily.  Instead, these should be
