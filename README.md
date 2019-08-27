@@ -9,10 +9,10 @@ Office hours: 4:00-4:45pm Monday and Wednesday, or by appointment (ECES 118A)
 
 
 Teaching Assistant: Han Liu [\[contact\]](mailto:Han.Liu@colorado.edu)  
-Office hours: TBD
+Office hours: 9:45-10:45am Thursday (TBD), or by appointment
 
 Graduate Student Staff: Brian Groenke [\[contact\]](mailto:brgr6137@colorado.edu)  
-Office hours: TBD
+Office hours: 10:00-11:00am Friday (TBD), or by appointment
 
 Course Manager: Kodur Krishna Chaitanya [\[contact\]](mailto:kodur.chaitanya@colorado.edu)
 

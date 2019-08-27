@@ -10,7 +10,7 @@
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Homework   | 
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:----------:|
 | 1 | 8.26 |  | Machine Learning Intro.  |  | |
-| | 8.28 | Chapter 1 | Decision Trees | | |
+| | 8.28 | Chapter 1 | Decision Trees | [slides](../slides/lec1.pdf) | |
 | 2 | 9.2 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off |  | |
 | | 9.4 |  Chapter 3 | K-Nearest Neighbors/Perceptron I |  | |
 | 3 | 9.9 | Chapter 4 | Perceptron II & Hands on | | |
