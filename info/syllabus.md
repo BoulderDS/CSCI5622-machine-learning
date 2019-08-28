@@ -39,7 +39,7 @@ The system is highly catered to getting you help fast and efficiently from class
 
 A major component of this course is to learn modern, practical computing skills for machine learning.  Our two main tools will be Python 3 and Jupyter Notebooks.  It is estimated that around 50% of practicing data scientists do most of their analysis using Python (while the other roughly 50% use R, which we shall not speak of).  The Jupyter Notebook is a browser-based programming environment that allows you to seamlessly mix Python code (as well as many other languages), graphics, and exposition (in Markdown).  The Jupyter Notebook has become ubiquitous in the data science community for rapidly prototyping ideas and sharing them with colleagues and the rest of the world. 
 
-It is strongly recommended that you install Python 3 and Jupyter on your local machine. By far, the easiest way to do this is by installing the [Anaconda](https://www.continuum.io/downloads) distribution of Python 3.7.  This distribution comes with many Python packages useful for data science and scientific computation in general. It also comes with Jupyter by default.
+It is strongly recommended that you install Python 3 and Jupyter on your local machine. By far, the easiest way to do this is by installing the [Anaconda](https://www.anaconda.com/distribution/) distribution of Python 3.7.  This distribution comes with many Python packages useful for data science and scientific computation in general. It also comes with Jupyter by default.
 
 Frequently in class we will explore computational problems directly in Jupyter notebooks.  It is highly recommended that you bring a laptop with you to class, however it's perfectly acceptable that you team up with a classmate on a single computer. 
 
