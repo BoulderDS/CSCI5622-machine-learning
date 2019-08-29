@@ -11,24 +11,23 @@
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:----------:|
 | 1 | 8.26 |  | Machine Learning Intro.  |  [slides](../slides/lec1.pdf) | |
 | | 8.28 | Chapter 1 | Decision Trees | [slides](../slides/lec2.pdf) | |
-| 2 | 9.2 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off | | |
-| | 9.4 |  Chapter 3 | K-Nearest Neighbors/Perceptron I |  | |
-| 3 | 9.9 | Chapter 4 | Perceptron II & Hands on | | |
-| | 9.11 | Chapter 5 | Feature Engineering |  |  HW1 due|
-| 4 | 9.16 | Chapter 9 & Chapter 7 | Logistic regression| | |
-| | 9.18 | Chapter 7 | Stochastic gradient  | |
-| 5 | 9.23 | Chapter 5 | Validation & Evaluation metrics I | | |
-| | 9.25 |Chapter 5 | Evaluation metrics II & Multiclass classification | | HW2 due|
-| 6 | 9.30 |Chapter 6 | Hands on logistic regression, validation and evaluation metrics | | |
-| | 10.2 | Chapter 10 |  Neural Nets I  |  | Final project team formation due|
-| 7 | 10.7 | Chapter 10 | Neural Nets II| | || 
-| | 10.9 | | Prelim 1 (week 1, 2, 3, 4, 5, 6) | | |
-| 8 | 10.14 | Chapter 10 | Back Propagation | | |
-| | 10.16 |Chapter 7 | Hard-Margin SVM & Hands on Neural net || HW3 due |
-| 9 | 10.21 | Chapter 7, [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf)  | Soft-margin SVM |  | |
-| | 10.23 | Chapter 11 | Kernel trick & hands on SVM |  | Final project proposal due|
-| 10 | 10.28 | Chapter 12 | Bagging, Random Forests, Boosted Decision trees   |  | |
-| | 10.30 | | Hands-on Adaboost	|  | HW4 due  |
+| 2 | 9.4 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off | | |
+| | 9.9 |  Chapter 3 | K-Nearest Neighbors/Perceptron I |  | |
+| 3 | 9.11 | Chapter 4 | Perceptron II & Hands on | | |
+| | 9.16 | Chapter 5 | Feature Engineering |  |  HW1 due|
+| 4 | 9.18 | Chapter 9 & Chapter 7 | Logistic regression| | |
+| | 9.23 | Chapter 7 | Stochastic gradient  | |
+| 5 | 9.25 | Chapter 5 | Validation & Evaluation metrics I | | |
+| | 9.30 |Chapter 5 | Evaluation metrics II & Multiclass classification | | HW2 due|
+| 6 | 10.2 |Chapter 6 | Hands on logistic regression, validation and evaluation metrics | | |
+| | 10.7 | Chapter 10 |  Neural Nets I  |  | Final project team formation due|
+| 7 | 10.9 | Chapter 10 | Neural Nets II| | || 
+| | 10.14 | | Prelim 1 (week 1, 2, 3, 4, 5, 6) | | |
+| 8 | 10.16 | Chapter 10 | Back Propagation | | |
+| | 10.21 |Chapter 7 | Hard-Margin SVM & Hands on Neural net || HW3 due |
+| 9 | 10.23 | Chapter 7, [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf)  | Soft-margin SVM |  | |
+| | 10.28 | Chapter 11 | Kernel trick & hands on SVM |  | Final project proposal due|
+| 10 | 10.30 | Chapter 12 | Bagging, Random Forests, Boosted Decision trees   |  | HW4 due |
 | 11 | 11.4 | | Unsupervised learning I|  | |
 | | 11.6 | Chapter 15| Unsupervised learning II | | |
 | 12 | 11.11 |  |  Expectation-minimization algorithms  |   | |
