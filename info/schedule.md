@@ -13,7 +13,7 @@
 | | 8.28 | Chapter 1 | Decision Trees | [slides](../slides/lec2.pdf) | |
 | 2 | 9.2 | | Labor Day Holiday | | |
 | | 9.4 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off |[slides](../slides/lec3.pdf) | |
-| 3 | 9.9 |  Chapter 3 | K-Nearest Neighbors/Perceptron I |  | |
+| 3 | 9.9 |  Chapter 3 | K-Nearest Neighbors/Perceptron I |  [slides](../slides/lec4.pdf)  | |
 |  | 9.11 | Chapter 4 | Perceptron II & Hands on | | HW1 due |
 | 4 | 9.16 | Chapter 5 | Feature Engineering |  | |
 |  | 9.18 | Chapter 9 & Chapter 7 | Logistic regression| | |
