@@ -61,7 +61,7 @@ You are expected to write up your solutions neatly, with full explanations and j
 The overall grades will be based on a cumulative score computed from 
 
 * Homework (35% of the grade);
-* Exams (30% of the grade, three times);
+* Exams (30% of the grade, two times);
 * Final project (30% of the grade);
 * Participation (5% of the grade, based on in-class participation and Piazza activities);
 
