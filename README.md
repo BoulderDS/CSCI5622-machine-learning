@@ -12,7 +12,7 @@ Teaching Assistant: Han Liu [\[contact\]](mailto:Han.Liu@colorado.edu)
 Office hours: 10:00-11:00 AM Friday, or by appointment (DLC lobby)
 
 Graduate Student Staff: Brian Groenke [\[contact\]](mailto:brgr6137@colorado.edu)  
-Office hours: 2:30-3:30 PM on Wednesday and 11:00-12:00 PM on Thursday, or by appointment (ECAE 191)
+Office hours: 2:30-3:30 PM on Wednesday and 4:00-5:00 PM on Thursday, or by appointment (ECAE 191)
 
 
 Course Manager: Kodur Krishna Chaitanya [\[contact\]](mailto:kodur.chaitanya@colorado.edu)
