@@ -17,7 +17,7 @@
 | 3 | 9.9 |  Chapter 3 | K-Nearest Neighbors/Perceptron I |  [slides](../slides/lec4.pdf)  | |
 |  | 9.11 | Chapter 4 | Perceptron II & Hands on | [slides](../slides/lec5.pdf), [notebook](../in-class-notebooks/Hands_On_KNN_Perceptron.ipynb) | HW1 due |
 | 4 | 9.16 | Chapter 5 | Feature Engineering |  [slides](../slides/lec6.pdf)| |
-|  | 9.18 | Chapter 9 & Chapter 7 | Logistic regression| | |
+|  | 9.18 | Chapter 9 & Chapter 7 | Logistic regression| [slides](../slides/lec7.pdf) | |
 | 5 | 9.23 | Chapter 7 | Stochastic gradient  | |
 |  | 9.25 | Chapter 5 | Validation & Evaluation metrics I | | |
 | 6 | 9.30 |Chapter 5 | Evaluation metrics II & Multiclass classification | | |
