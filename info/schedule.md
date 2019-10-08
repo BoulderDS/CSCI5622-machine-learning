@@ -22,7 +22,7 @@
 |  | 9.25 | Chapter 5 | Validation & Evaluation metrics I | [slides](../slides/lec9.pdf) | |
 | 6 | 9.30 |Chapter 5 | Evaluation metrics II & Multiclass classification | [slides](../slides/lec10.pdf) | |
 |  | 10.2 |Chapter 6 | Hands on SGD and logistic regression | [notebook for SGD](../in-class-notebooks/Hands_On_SGD.ipynb), [notebook for LR](../in-class-notebooks/Hands_On_Logistic_Regression.ipynb) | Final project team formation due, HW2 Due |
-| 7 | 10.7 | Chapter 10 |  Neural Nets I  |  | |
+| 7 | 10.7 | Chapter 10 |  Neural Nets I  | [slides](../slides/lec11.pdf) | |
 |  | 10.9 | Chapter 10 | Neural Nets II| | || 
 | 8 | 10.14 |Chapter 10  | Back Propagation  | | |
 |  | 10.16 | | Prelim 1 (week 1, 2, 3, 4, 5, 6) | | |
