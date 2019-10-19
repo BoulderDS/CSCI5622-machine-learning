@@ -24,7 +24,7 @@
 |  | 10.2 |Chapter 6 | Hands on SGD and logistic regression | [notebook for SGD](../in-class-notebooks/Hands_On_SGD.ipynb), [notebook for LR](../in-class-notebooks/Hands_On_Logistic_Regression.ipynb) | Final project team formation due, HW2 Due |
 | 7 | 10.7 | Chapter 10 |  Neural Nets I  | [slides](../slides/lec11.pdf) | |
 |  | 10.9 | Chapter 10 | Neural Nets II| [slides](../slides/lec12.pdf)| || 
-| 8 | 10.14 |Chapter 10  | Back Propagation  | | |
+| 8 | 10.14 |Chapter 10  | Back Propagation  | [slides](../slides/lec13.pdf)| |
 |  | 10.16 | | Prelim 1 (week 1, 2, 3, 4, 5, 6) | | |
 | 9 | 10.21 |Chapter 7 | Hard-Margin SVM & Hands on Neural net || |
 |  | 10.23 | Chapter 7, [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf)  | Soft-margin SVM |  | Final project proposal due, HW3 Due |
