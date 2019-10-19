@@ -25,6 +25,6 @@ Course Manager: Kodur Krishna Chaitanya [\[contact\]](mailto:kodur.chaitanya@col
 * Piazza link: [https://piazza.com/class/jza7ib732nu1yz](https://piazza.com/class/jza7ib732nu1yz)
 * Moodle link: [https://moodle.cs.colorado.edu/course/view.php?id=1231](https://moodle.cs.colorado.edu/course/view.php?id=1231)
 * [Schedule and Slides](https://github.com/BoulderDS/CSCI5622-Machine-Learning/blob/master/info/schedule.md)
-* Textbook: [A Course in Machine Learning by Hal Daumé III](http://ciml.info/).
+* Textbook: [A Course in Machine Learning by Hal Daumé III](http://ciml.info/), [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 
 
