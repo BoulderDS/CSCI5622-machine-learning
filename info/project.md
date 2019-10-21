@@ -23,7 +23,7 @@ We will use Piazza and office hours **heavily** to discuss final project ideas. 
 A good project should    
 
 * be an interesting well-motivated problem;
-* have readily available data, or a clear plan to gather the dataset by Oct 23 (the dataset should be ready five days after the proposal);
+* have readily available data, or a clear plan to gather the dataset by Oct 25 (the dataset should be ready five days after the proposal);
 * can be formulated or partially addressed with machine learning techniques;
 * have a solution (ideally multiple solutions) that you can implement within the scope of this class.
 
