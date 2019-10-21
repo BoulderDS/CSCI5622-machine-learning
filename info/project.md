@@ -33,7 +33,7 @@ Kaggle competitions can usually satisfy these constaints. Also check out these r
 
 ## Final project proposal
 
-Each group will submit a proposal of at most two pages by 11:59pm on Oct 23 on Piazza. A good proposal should
+Each group will submit a proposal of at most two pages by 11:59pm on Oct 25 on Piazza. A good proposal should
 
 * explain why the project is worth studying;
 * explain why machine learning techniques are appropriate;
