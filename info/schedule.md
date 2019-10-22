@@ -26,7 +26,7 @@
 |  | 10.9 | Chapter 10 | Neural Nets II| [slides](../slides/lec12.pdf)| || 
 | 8 | 10.14 |Chapter 10  | Back Propagation  | [slides](../slides/lec13.pdf)| |
 |  | 10.16 | | Prelim 1 (week 1, 2, 3, 4, 5, 6) | | |
-| 9 | 10.21 | | Back Propagation Continued & Hands on Neural net || |
+| 9 | 10.21 | | Back Propagation Continued & Hands on Neural net | [slides](../slides/lec13.pdf), [notebook](../in-class-notebooks/Hands_on_NeuralNets.ipynb)| |
 |  | 10.23 | Chapter 7, [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf)  | Hard-margin SVM and Soft-margin SVM |  | Final project proposal due, HW3 Due |
 | 10 | 10.28 | Chapter 11 | Kernel trick & hands on SVM |  | |
 |  | 10.30 | Chapter 12 | Bagging, Random Forests, Boosted Decision trees   |  | |
