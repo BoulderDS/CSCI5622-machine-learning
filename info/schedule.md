@@ -30,7 +30,7 @@
 |  | 10.23 | Chapter 7, [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf)  | Hard-margin SVM and Soft-margin SVM | [slides](../slides/lec14.pdf) | Final project proposal due, HW3 Due |
 | 10 | 10.28 | Chapter 11 | Duality, Kernel trick & hands on SVM | [notebook](../in-class-notebooks/Hands_on_SVM_example.ipynb),  [slides](../slides/lec15.pdf)| |
 |  | 10.30 | Chapter 12 | Bagging, Random Forests, Boosted Decision trees   | [slides](../slides/lec16.pdf) | |
-|  11 | 11.4 |Chapter 15 | Unsupervised learning I|  | |
+|  11 | 11.4 |Chapter 15 | [Unsupervised learning I](../slides/lec17.pdf) |  | |
 | | 11.6 | Chapter 15 | Unsupervised learning II | |HW4 Due  |
 |  12 | 11.11 | Chapter 16  |  Expectation-minimization algorithms  |   | |
 | | 11.13 |  |  Final project check in   |  | Final project midpoint report due|
