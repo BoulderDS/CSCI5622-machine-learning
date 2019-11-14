@@ -32,7 +32,7 @@
 |  | 10.30 | Chapter 12 | Bagging, Random Forests, Boosted Decision trees   | [slides](../slides/lec16.pdf) | |
 |  11 | 11.4 |Chapter 15 | [Unsupervised learning I](../slides/lec17.pdf) |  | |
 | | 11.6 | Chapter 15 | [Unsupervised learning II](../slides/lec18.pdf) | |HW4 Due  |
-|  12 | 11.11 | Chapter 16  |  Expectation-minimization algorithms  |   | |
+|  12 | 11.11 | Chapter 16  |  [Expectation-minimization algorithms](../slides/lec19.pdf)  |   | |
 | | 11.13 |  |  Final project check in   |  | Final project midpoint report due|
 |  13 | 11.18 | | Topic models| |  |
 | | 11.20 | |  Variational Inference | | HW5 due |
