@@ -35,7 +35,7 @@
 |  12 | 11.11 | Chapter 16  |  Expectation-minimization algorithms   |   [slides](../slides/lec19.pdf) | |
 | | 11.13 |  |  Final project check in   |  | Final project midpoint report due|
 |  13 | 11.18 | | Topic models| [slides](../slides/lec20.pdf) |  |
-| | 11.20 | |  Variational Inference | | HW5 due |
+| | 11.20 | |  Variational Inference | [slides](../slides/lec21.pdf)  | HW5 due |
 |  14 | 11.25 | | Fall break | | |
 | | 11.27 | | Fall break | | |
 |  15 | 12.2 | |   Prelim 2 (7, 8, 9, 10, 11, 12) | | |
